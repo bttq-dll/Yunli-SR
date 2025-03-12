@@ -1,7 +1,5 @@
 # Yunli-SR
 A powerful cheat application for Honkai: Star Rail<br>
-For Windows 11+/Tiny11 Builds: <br>
-https://github.com/ntdevlabs/tiny11builder
 <br>
 Multilangual: English, Russian, Chinese
 **Coming soon** :)<br>**Give stars/follow for updates**<br>
